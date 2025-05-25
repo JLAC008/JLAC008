@@ -36,6 +36,7 @@
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Apache Struts](https://img.shields.io/badge/Apache%20Struts-1B6AC6?style=for-the-badge&logo=apache&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### 🔧 Herramientas
 
