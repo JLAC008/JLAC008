@@ -40,6 +40,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Apache Struts](https://img.shields.io/badge/Apache%20Struts-1B6AC6?style=for-the-badge&logo=apache&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logoColor=white)
 
 #### 🔧 Herramientas
 
